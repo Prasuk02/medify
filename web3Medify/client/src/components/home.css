@@ -1,0 +1,84 @@
+
+
+.homeImage{
+    width: 93%;
+    margin-left: 50px;
+}
+
+.colColor{
+    background-color: white;
+}
+
+.heading1{
+    color: #1fc157;
+}
+
+.mainHeading{
+    color: #29446e;
+}
+
+.mainPara{
+    color: grey;
+    font-size: 18px;
+    font-family: monospace;
+}
+
+.mainBtn{
+    background-color: #1fc157;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.colorChange{
+    background-color: #f3f2f3;
+}
+
+.stepText{
+    text-align: justify;
+    color: rgb(54, 54, 54);
+}
+
+.stepHead{
+    color: lightgray;
+}
+
+.stepHeading{
+    color: #29446e;
+}
+
+.Image{
+    width: 90%;
+}
+
+.securePara{
+    color: rgb(83, 83, 83);
+    font-family: monospace;
+    text-align: justify;
+}
+
+.chooseMargin1{
+    margin-bottom: 28px;
+    margin-top: 30px;
+}
+
+.chooseMargin2{
+    margin-bottom: 14px;
+    margin-top: 45px;
+}
+
+.choosePara{
+    text-align: justify;
+    color: rgb(83, 83, 83);
+    padding: 0px 5px;
+}
+
+.chooseMainPara{
+    font-family: monospace;
+    color: rgb(83, 83, 83);
+    margin-top: 20px;
+}
+
+.features{
+    color: rgb(19, 55, 85);
+}
